@@ -69,7 +69,7 @@
 #### Web
 
 [<img align="left" alt="HTML5" width="32" height="32" src="./img/tools/html.svg" style="padding-right:5px;" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5## 'excellent - 3 years - using it regularly')
-[<img align="left" alt="CSS3" width="32" height="32" src="./img/tools/css.svg" style="padding-right:5px;" />](.https://developer.mozilla.org/en-US/docs/Web/CSS## 'excellent - 3 years - using it regularly')
+[<img align="left" alt="CSS3" width="32" height="32" src="./img/tools/css.svg" style="padding-right:5px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS## 'excellent - 3 years - using it regularly')
 [<img align="left" alt="Node.js" width="32" height="32" src="./img/tools/node.svg" style="padding-right:5px;" />](https://nodejs.org/en/## 'excellent - 3 years - been using it interchangeably with dotnet core')
 [<img align="left" alt="React" width="32" height="32" src="./img/tools/react.svg" style="padding-right:5px;" />](https://reactjs.org/## 'proficient - 1 year - been using it interchangeably with node')
 [<img align="left" alt="Express" width="32" height="32" src="./img/tools/express.svg" style="padding-right:5px;" />](https://expressjs.com/## 'excellent - 3 years - been using it interchangeably with dotnet core')
@@ -189,9 +189,10 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does The Internet Work? Part 3: Traceroute](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-3-traceroute-2b7l)
-- [How Does The Internet Work? Part 2: Breaking a Website](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-2-breaking-a-website-5e59)
-- [How Does The Internet Work? Part 1: Browsing a Website](https://dev.to/ahmedsomaa/how-does-the-internet-works-part-1-behind-the-scenes-4d6m)
+
+-   [How Does The Internet Work? Part 3: Traceroute](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-3-traceroute-2b7l)
+-   [How Does The Internet Work? Part 2: Breaking a Website](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-2-breaking-a-website-5e59)
+-   [How Does The Internet Work? Part 1: Browsing a Website](https://dev.to/ahmedsomaa/how-does-the-internet-works-part-1-behind-the-scenes-4d6m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -199,15 +200,18 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+
 1. 💬 Commented on [#1](https://github.com/ahmedsomaa/ahmedsomaa/pull/1#issuecomment-1242710063) in [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
 2. ⬆️ Pushed 8 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
 3. ⬆️ Pushed 2 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
 4. 💪 Opened PR [#1](https://github.com/ahmedsomaa/ahmedsomaa/pull/1) in [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
 5. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
-<!--RECENT_ACTIVITY:end-->
+ <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Saturday, September 10th, 2022, 3:16:39 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
