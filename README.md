@@ -7,14 +7,14 @@
     />
 </p>
 
-## I'm a Developer, Masters Student, and Friend!!
+## I'm a Developer and Masters Student!
 
 -   🔭 I'm currently a masters student at ASU (MSE in Software Engineering)
 -   🌱 I’m currently learning
     [Advanced Full-Stack Web Development](https://egfwd.com/specializtion/web-development-advanced/)
 -   👯 I’m looking to collaborate in open source projects
 -   🥅 2022 Goals: Master JavaScript, TypeScript, Node & Unit Testing
--   ⚡ Fun fact: I love to watch football and play Fifa
+-   ⚡ Fun fact: I love to watch football and read about new tech
 
 ### Connect with me:
 
