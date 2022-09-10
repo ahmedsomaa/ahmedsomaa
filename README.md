@@ -4,7 +4,7 @@
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ahmedsomaa/ahmedsomaa/Latest%20blog%20post%20workflow/main?label=Blog%20Post%20Workflow&logo=dev.to&logoColor=%230A0A0A&style=flat-square)
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ahmedsomaa/ahmedsomaa/Recent%20Activity%20Workflow/main?label=Recent%20Activity%20Workflow&logo=git&logoColor=%23F05032&style=flat-square)
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/ahmedsomaa/ahmedsomaa?color=green&label=Version&logo=semantic-release&logoColor=green&sort=semver&style=flat-square)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/ahmedsomaa/ahmedsomaa?color=yellow&label=Version&logo=semantic-release&logoColor=yellow&style=flat-square)
 
 ## I'm a Developer and Masters Student!
 
