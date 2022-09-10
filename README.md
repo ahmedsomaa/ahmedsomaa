@@ -17,23 +17,36 @@
 
 ### Connect with me:
 
-#### Social
+#### Social Media
 
-[<img align="left" alt="Gmail Light" width="32" height="32" src="./img/social/gmail-light.svg" style="padding-right:5px;" />](mailto:ahmedsomaa@aucegypt.edu)
-[<img align="left" alt="Gmail Dark" width="32" height="32" src="./img/social/gmail-dark.svg" style="padding-right:5px;" />](mailto:ahmedsomaa@aucegypt.edu)
+[<img align="left" alt="Gmail Light" width="32" height="32" src="./img/social/gmail-light.svg" style="padding-right:5px;" />](mailto:ahmedsomaa@aucegypt.edu#gh-dark-mode-only)
+[<img align="left" alt="Gmail Dark" width="32" height="32" src="./img/social/gmail-dark.svg" style="padding-right:5px;" />](mailto:ahmedsomaa@aucegypt.edu#gh-light-mode-only)
+[<img align="left" alt="Linkedin Light" width="32" height="32" src="./img/social/linkedin-light.svg" style="padding-right:5px;" />](https://linkedin.com/in/abokahfa#gh-dark-mode-only)
+[<img align="left" alt="Linkedin Dark" width="32" height="32" src="./img/social/linkedin-dark.svg" style="padding-right:5px;" />](https://linkedin.com/in/abokahfa#gh-light-mode-only)
+[<img align="left" alt="Twitter Light" width="32" height="32" src="./img/social/twitter-light.svg" style="padding-right:5px;" />](https://twitter.com/abokahfa#gh-dark-mode-only)
+[<img align="left" alt="Twitter Dark" width="32" height="32" src="./img/social/twitter-dark.svg" style="padding-right:5px;" />](https://twitter.com/abokahfa#gh-light-mode-only)
+[<img align="left" alt="Facebook Light" width="32" height="32" src="./img/social/facebook-light.svg" style="padding-right:5px;" />](https://fb.com/ahmed.abdelbaky.315#gh-dark-mode-only)
+[<img align="left" alt="Facebook Dark" width="32" height="32" src="./img/social/facebook-dark.svg" style="padding-right:5px;" />](https://fb.com/ahmed.abdelbaky.315#gh-light-mode-only)
 
-[<img align="left" alt="Dev.to Light" width="32" height="32" src="./img/social/dev-light.svg" style="padding-right:5px;" />](https://dev.to/ahmedsomaa#gh-light-mode-only)
-[<img align="left" alt="Dev.to Dark" width="32" height="32" src="./img/social/dev-dark.svg" style="padding-right:5px;" />](https://dev.to/ahmedsomaa#gh-dark-mode-only)
-[<img align="left" alt="Twitter Light" width="32" height="32" src="./img/social/twitter-light.svg" style="padding-right:5px;" />](https://twitter.com/abokahfa#gh-light-mode-only)
-[<img align="left" alt="Twitter Dark" width="32" height="32" src="./img/social/twitter-dark.svg" style="padding-right:5px;" />](https://twitter.com/abokahfa#gh-dark-mode-only)
-[<img align="left" alt="Linkedin Light" width="32" height="32" src="./img/social/linkedin-light.svg" style="padding-right:5px;" />](https://linkedin.com/in/abokahfa#gh-light-mode-only)
-[<img align="left" alt="Linkedin Dark" width="32" height="32" src="./img/social/linkedin-dark.svg" style="padding-right:5px;" />](https://linkedin.com/in/abokahfa#gh-dark-mode-only)
-[<img align="left" alt="Stackoverflow Light" width="32" height="32" src="./img/social/stackoverflow-light.svg" style="padding-right:5px;" />](https://stackoverflow.com/users/12738561#gh-light-mode-only)
-[<img align="left" alt="Stackoverflow Dark" width="32" height="32" src="./img/social/stackoverflow-dark.svg" style="padding-right:5px;" />](https://stackoverflow.com/users/12738561#gh-dark-mode-only)
-[<img align="left" alt="Facebook Light" width="32" height="32" src="./img/social/facebook-light.svg" style="padding-right:5px;" />](https://fb.com/ahmed.abdelbaky.315#gh-light-mode-only)
-[<img align="left" alt="Facebook Dark" width="32" height="32" src="./img/social/facebook-dark.svg" style="padding-right:5px;" />](https://fb.com/ahmed.abdelbaky.315#gh-dark-mode-only)
-[<img align="left" alt="HackerRank Light" width="32" height="32" src="./img/social/hackerrank-light.svg" style="padding-right:5px;" />](https://www.hackerrank.com/ahmedsomaa?hr_r=1#gh-light-mode-only)
-[<img align="left" alt="HackerRank Dark" width="32" height="32" src="./img/social/hackerrank-dark.svg" style="padding-right:5px;" />](https://www.hackerrank.com/ahmedsomaa?hr_r=1#gh-dark-mode-only)
+<br/>
+<br/>
+
+#### Problem Solving
+
+[<img align="left" alt="HackerRank Light" width="32" height="32" src="./img/social/hackerrank-light.svg" style="padding-right:5px;" />](https://www.hackerrank.com/ahmedsomaa?hr_r=1#gh-dark-mode-only)
+[<img align="left" alt="HackerRank Dark" width="32" height="32" src="./img/social/hackerrank-dark.svg" style="padding-right:5px;" />](https://www.hackerrank.com/ahmedsomaa?hr_r=1#gh-light-mode-only)
+[<img align="left" alt="CodeForces Light" width="32" height="32" src="./img/social/codeforces-light.svg" style="padding-right:5px;" />](https://codeforces.com/profile/Ahmedsomaa#gh-dark-mode-only)
+[<img align="left" alt="CodeForces Dark" width="32" height="32" src="./img/social/codeforces-dark.svg" style="padding-right:5px;" />](https://codeforces.com/profile/Ahmedsomaa#gh-light-mode-only)
+
+<br/>
+<br/>
+
+#### Blogging & Other
+
+[<img align="left" alt="Dev.to Light" width="32" height="32" src="./img/social/dev-light.svg" style="padding-right:5px;" />](https://dev.to/ahmedsomaa#gh-dark-mode-only)
+[<img align="left" alt="Dev.to Dark" width="32" height="32" src="./img/social/dev-dark.svg" style="padding-right:5px;" />](https://dev.to/ahmedsomaa#gh-light-mode-only)
+[<img align="left" alt="Stackoverflow Light" width="32" height="32" src="./img/social/stackoverflow-light.svg" style="padding-right:5px;" />](https://stackoverflow.com/users/12738561#gh-dark-mode-only)
+[<img align="left" alt="Stackoverflow Dark" width="32" height="32" src="./img/social/stackoverflow-dark.svg" style="padding-right:5px;" />](https://stackoverflow.com/users/12738561#gh-light-mode-only)
 
 <br/>
 <br/>
@@ -108,12 +121,14 @@
 3.  ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
 4.  ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
 5.  ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
-    <!--RECENT_ACTIVITY:end-->
 
-        <!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:end-->
 
-    Last Updated: Saturday, September 10th, 2022, 10:27:21 AM
-    <!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:last_update-->
+
+Last Updated: Saturday, September 10th, 2022, 10:27:21 AM
+
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
