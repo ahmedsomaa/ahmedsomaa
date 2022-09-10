@@ -17,6 +17,11 @@
 
 ### Connect with me:
 
+#### Social
+
+[<img align="left" alt="Gmail Light" width="32" height="32" src="./img/social/gmail-light.svg" style="padding-right:5px;" />](mailto:ahmedsomaa@aucegypt.edu)
+[<img align="left" alt="Gmail Dark" width="32" height="32" src="./img/social/gmail-dark.svg" style="padding-right:5px;" />](mailto:ahmedsomaa@aucegypt.edu)
+
 [<img align="left" alt="Dev.to Light" width="32" height="32" src="./img/social/dev-light.svg" style="padding-right:5px;" />](https://dev.to/ahmedsomaa#gh-light-mode-only)
 [<img align="left" alt="Dev.to Dark" width="32" height="32" src="./img/social/dev-dark.svg" style="padding-right:5px;" />](https://dev.to/ahmedsomaa#gh-dark-mode-only)
 [<img align="left" alt="Twitter Light" width="32" height="32" src="./img/social/twitter-light.svg" style="padding-right:5px;" />](https://twitter.com/abokahfa#gh-light-mode-only)
@@ -86,9 +91,10 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does The Internet Work? Part 3: Traceroute](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-3-traceroute-2b7l)
-- [How Does The Internet Work? Part 2: Breaking a Website](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-2-breaking-a-website-5e59)
-- [How Does The Internet Work? Part 1: Browsing a Website](https://dev.to/ahmedsomaa/how-does-the-internet-works-part-1-behind-the-scenes-4d6m)
+
+-   [How Does The Internet Work? Part 3: Traceroute](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-3-traceroute-2b7l)
+-   [How Does The Internet Work? Part 2: Breaking a Website](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-2-breaking-a-website-5e59)
+-   [How Does The Internet Work? Part 1: Browsing a Website](https://dev.to/ahmedsomaa/how-does-the-internet-works-part-1-behind-the-scenes-4d6m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -96,15 +102,17 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
-2. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
-3. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
-4. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
-5. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
+
+1.  ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
+2.  ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
+3.  ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
+4.  ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
+5.  ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
     <!--RECENT_ACTIVITY:end-->
 
-    <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 10th, 2022, 10:27:21 AM
+        <!--RECENT_ACTIVITY:last_update-->
+
+    Last Updated: Saturday, September 10th, 2022, 10:27:21 AM
     <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
