@@ -7,6 +7,8 @@
     />
 </p>
 
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/ahmedsomaa/ahmedsomaa?color=green&label=version&logo=semantic-release&logoColor=green&sort=semver&style=flat-square)
+
 ## I'm a Developer and Masters Student!
 
 -   🔭 I'm currently a masters student at ASU (MSE in Software Engineering)
