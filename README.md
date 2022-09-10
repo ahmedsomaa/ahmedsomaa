@@ -23,10 +23,10 @@
 [<img align="left" alt="Gmail Dark" width="32" height="32" src="./img/social/gmail-dark.svg" style="padding-right:5px;" />](mailto:ahmedsomaa@aucegypt.edu#gh-light-mode-only)
 [<img align="left" alt="Linkedin Light" width="32" height="32" src="./img/social/linkedin-light.svg" style="padding-right:5px;" />](https://linkedin.com/in/abokahfa#gh-dark-mode-only)
 [<img align="left" alt="Linkedin Dark" width="32" height="32" src="./img/social/linkedin-dark.svg" style="padding-right:5px;" />](https://linkedin.com/in/abokahfa#gh-light-mode-only)
-[<img align="left" alt="Twitter Light" width="32" height="32" src="./img/social/twitter-light.svg" style="padding-right:5px;" />](https://twitter.com/abokahfa#gh-dark-mode-only)
-[<img align="left" alt="Twitter Dark" width="32" height="32" src="./img/social/twitter-dark.svg" style="padding-right:5px;" />](https://twitter.com/abokahfa#gh-light-mode-only)
 [<img align="left" alt="Facebook Light" width="32" height="32" src="./img/social/facebook-light.svg" style="padding-right:5px;" />](https://fb.com/ahmed.abdelbaky.315#gh-dark-mode-only)
 [<img align="left" alt="Facebook Dark" width="32" height="32" src="./img/social/facebook-dark.svg" style="padding-right:5px;" />](https://fb.com/ahmed.abdelbaky.315#gh-light-mode-only)
+[<img align="left" alt="Twitter Light" width="32" height="32" src="./img/social/twitter-light.svg" style="padding-right:5px;" />](https://twitter.com/abokahfa#gh-dark-mode-only)
+[<img align="left" alt="Twitter Dark" width="32" height="32" src="./img/social/twitter-dark.svg" style="padding-right:5px;" />](https://twitter.com/abokahfa#gh-light-mode-only)
 
 <br/>
 <br/>
