@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.2.1...v1.3.0) (2022-09-10)
+
+
+### Features
+
+* Add skill icons ([bf9a10e](https://github.com/ahmedsomaa/ahmedsomaa/commit/bf9a10ea3714c3b7304c04f0911b29f108bc06e9))
+
+
+### Bug Fixes
+
+* Reorganize skills section ([339a38c](https://github.com/ahmedsomaa/ahmedsomaa/commit/339a38ce7d047237741d78be5e4776ea46ab6e7a))
+
 ### [1.2.1](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.2.0...v1.2.1) (2022-09-10)
 
 
