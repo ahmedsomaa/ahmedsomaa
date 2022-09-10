@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.0.1...v1.1.0) (2022-09-10)
+
+
+### Features
+
+* Add repo version shield ([cec46aa](https://github.com/ahmedsomaa/ahmedsomaa/commit/cec46aaf5d648534e317ca259caf461d3b000e8d))
+
 ### 1.0.1 (2022-09-10)
 
 
