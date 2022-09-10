@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.2](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.1...v1.3.2) (2022-09-10)
+
+
+### Bug Fixes
+
+* Remove extra dot beofre css url ([a0ac39d](https://github.com/ahmedsomaa/ahmedsomaa/commit/a0ac39ddc498d36558f7c2b5e7e59181e0711c5b))
+
 ### [1.3.1](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.0...v1.3.1) (2022-09-10)
 
 ## [1.3.0](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.2.1...v1.3.0) (2022-09-10)
