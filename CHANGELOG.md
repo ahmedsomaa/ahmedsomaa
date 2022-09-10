@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.1.0...v1.1.1) (2022-09-10)
+
+
+### Bug Fixes
+
+* Update profile views page theme to flat square & update label for version shield ([b920267](https://github.com/ahmedsomaa/ahmedsomaa/commit/b92026747094ad0a615f0a33c9c607a85c36a4f4))
+
 ## [1.1.0](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.0.1...v1.1.0) (2022-09-10)
 
 
