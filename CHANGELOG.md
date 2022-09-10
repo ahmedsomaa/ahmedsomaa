@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.2.0...v1.2.1) (2022-09-10)
+
+
+### Bug Fixes
+
+* Place facebook before twitter ([a871a2b](https://github.com/ahmedsomaa/ahmedsomaa/commit/a871a2ba0175debfe297864c069f5f71bdb3db18))
+
+## [1.2.0](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.1.4...v1.2.0) (2022-09-10)
+
+
+### Features
+
+* Add Gmail account & icons ([022899e](https://github.com/ahmedsomaa/ahmedsomaa/commit/022899eba3998b6e78846fb6cf97885b74daf91f))
+* Add the rest of social media icons ([a2e82c4](https://github.com/ahmedsomaa/ahmedsomaa/commit/a2e82c451ebdfdfe6a9985f26b895078829bcb49))
+
+
+### Bug Fixes
+
+* Update social media layout ([aa30e00](https://github.com/ahmedsomaa/ahmedsomaa/commit/aa30e009702758815c7f1b2ac085136acd1d1a9f))
+
 ### [1.1.4](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.1.3...v1.1.4) (2022-09-10)
 
 
