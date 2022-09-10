@@ -149,8 +149,8 @@
 [<img align="left" alt="Chrome" width="32" height="32" src="./img/tools/chrome.svg" style="padding-right:5px;" />](https://www.google.com/chrome/## 'Chrome')
 [<img align="left" alt="Postman" width="32" height="32" src="./img/tools/postman.svg" style="padding-right:5px;" />](https://www.postman.com/## 'Postman')
 [<img align="left" alt="Httpie" width="32" height="32" src="./img/tools/httpie.svg" style="padding-right:5px;" />](https://httpie.io/## 'HTTPie')
-[<img align="left" alt="AnyDesk" width="32" height="32" src="./img/tools/anydesk.svg" style="padding-right:5px;" />](https://anydesk.com/en## 'HTTPie')
-[<img align="left" alt="Notion" width="32" height="32" src="./img/tools/notion.svg" style="padding-right:5px;" />](https://www.notion.so/## 'HTTPie')
+[<img align="left" alt="AnyDesk" width="32" height="32" src="./img/tools/anydesk.svg" style="padding-right:5px;" />](https://anydesk.com/en## 'AnyDesk')
+[<img align="left" alt="Notion" width="32" height="32" src="./img/tools/notion.svg" style="padding-right:5px;" />](https://www.notion.so/## 'Notion')
 
 <br/>
 <br/>
