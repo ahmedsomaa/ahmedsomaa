@@ -1,13 +1,7 @@
 # Hi there, I'm Ahmed Ismail - aka somaa 👋
 
-<p align="left">
-    <img 
-        alt="ahmedsomaa" 
-        src="https://komarev.com/ghpvc/?username=ahmedsomaa&label=Profile%20views&color=0e75b6&style=flat-square" 
-    />
-</p>
-
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/ahmedsomaa/ahmedsomaa?color=green&label=version&logo=semantic-release&logoColor=green&sort=semver&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ahmedsomaa&style=flat-square)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/ahmedsomaa/ahmedsomaa?color=green&label=Version&logo=semantic-release&logoColor=green&sort=semver&style=flat-square)
 
 ## I'm a Developer and Masters Student!
 
