@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.4](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.3...v1.3.4) (2022-09-10)
+
+
+### Bug Fixes
+
+* Remove extra 'h' before postman url ([8a6b060](https://github.com/ahmedsomaa/ahmedsomaa/commit/8a6b0609d5c51ed7ec95f15d6421283cd45d24c6))
+* Update HTTPie in AnyDesk & Notion with correct names ([0d53a5b](https://github.com/ahmedsomaa/ahmedsomaa/commit/0d53a5bd4fd495094d9a67d5a1410cafbff5f7fb))
+
 ### [1.3.3](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.2...v1.3.3) (2022-09-10)
 
 ### [1.3.2](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.1...v1.3.2) (2022-09-10)
