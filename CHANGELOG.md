@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.2.0...v1.2.1) (2022-09-10)
+
+
+### Bug Fixes
+
+* Place facebook before twitter ([a871a2b](https://github.com/ahmedsomaa/ahmedsomaa/commit/a871a2ba0175debfe297864c069f5f71bdb3db18))
+
 ## [1.2.0](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.1.4...v1.2.0) (2022-09-10)
 
 
