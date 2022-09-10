@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.1.1...v1.1.2) (2022-09-10)
+
+
+### Bug Fixes
+
+* Update workflow bagdes ([18a633c](https://github.com/ahmedsomaa/ahmedsomaa/commit/18a633c75854a645e60eabe728d7927c91e2d305))
+
 ### [1.1.1](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.1.0...v1.1.1) (2022-09-10)
 
 
