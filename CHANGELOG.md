@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.8](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.7...v1.3.8) (2022-09-16)
+
+
+### Bug Fixes
+
+* Update description section ([2d9b805](https://github.com/ahmedsomaa/ahmedsomaa/commit/2d9b805f9de6f4b447b7e40d2ee6b05f5d1e478f))
+
 ### [1.3.7](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.6...v1.3.7) (2022-09-16)
 
 
