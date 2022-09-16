@@ -7,7 +7,7 @@
 <p>Welcome to my page!</p>
 <p>I'm Ahmed, Software engineer from Tanta, Egypt 🇪🇬, currently living in Cairo, Egypt.</p>
 
--   🔭 I'm currently studying masters of engineering in software engineering @ Arizona State University.
+-   🔭 I'm currently studying a masters of engineering in software engineering @ Arizona State University.
 -   🌱 I’m currently learning
     [Advanced Full-Stack Web Development](https://egfwd.com/specializtion/web-development-advanced/).
 -   👯 I’m looking to collaborate on open source projects.
@@ -57,6 +57,7 @@
 </p>
 
 ### Tech I've used before (at least in more than two projects)
+
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> 
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -71,6 +72,7 @@
 </p>
 
 ### Operating systems I've worked on
+
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> 
   <img alt="Windows 11" src="https://img.shields.io/badge/-Windows 11-0078D4?style=flat-square&logo=windows 11&logoColor=white" />
@@ -82,6 +84,7 @@
 </p>
 
 ### Tech on my bucket list
+
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> 
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwind css&logoColor=white" />
@@ -100,9 +103,10 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does The Internet Work? Part 3: Traceroute](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-3-traceroute-2b7l)
-- [How Does The Internet Work? Part 2: Breaking a Website](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-2-breaking-a-website-5e59)
-- [How Does The Internet Work? Part 1: Browsing a Website](https://dev.to/ahmedsomaa/how-does-the-internet-works-part-1-behind-the-scenes-4d6m)
+
+-   [How Does The Internet Work? Part 3: Traceroute](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-3-traceroute-2b7l)
+-   [How Does The Internet Work? Part 2: Breaking a Website](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-2-breaking-a-website-5e59)
+-   [How Does The Internet Work? Part 1: Browsing a Website](https://dev.to/ahmedsomaa/how-does-the-internet-works-part-1-behind-the-scenes-4d6m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -110,6 +114,7 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
 2. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
 3. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
@@ -118,7 +123,9 @@
  <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Friday, September 16th, 2022, 10:18:47 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
