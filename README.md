@@ -7,12 +7,12 @@
 <p>Welcome to my page!</p>
 <p>I'm Ahmed, Software engineer from Tanta, Egypt 🇪🇬, currently living in Cairo, Egypt.</p>
 
--   🔭 I'm currently studying a masters of engineering in software engineering @ Arizona State University.
--   🌱 I’m currently learning
+-   🔭 I'm currently doing a masters of engineering in software engineering @ Arizona State University.
+-   🌱 I’m also currently learning
     [Advanced Full-Stack Web Development](https://egfwd.com/specializtion/web-development-advanced/).
 -   👯 I’m looking to collaborate on open source projects.
--   🥅 2022 Goals: Master JavaScript, TypeScript, Node & Unit Testing
--   ⚡ Fun fact: I love to watch football and read about new technology
+-   🥅 2022 Goals: Master JavaScript, TypeScript, Node & Unit Testing.
+-   ⚡ Fun fact: I love to watch football and read about new technology.
 
 ### Tech I currently use
 
