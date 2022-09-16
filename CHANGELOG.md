@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.6](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.5...v1.3.6) (2022-09-16)
+
+
+### Bug Fixes
+
+* Add a before masters ([75e5ae6](https://github.com/ahmedsomaa/ahmedsomaa/commit/75e5ae63e956aceafe9a1c69050f9a34fe6e4c09))
+* Delete img directory ([ed8e595](https://github.com/ahmedsomaa/ahmedsomaa/commit/ed8e5956e1c86579c827d9fdba189a42a176a3e3))
+
 ### [1.3.5](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.4...v1.3.5) (2022-09-16)
 
 ### [1.3.4](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.3...v1.3.4) (2022-09-10)
