@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.7](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.6...v1.3.7) (2022-09-16)
+
+
+### Bug Fixes
+
+* Remove logos from the badges ([226c456](https://github.com/ahmedsomaa/ahmedsomaa/commit/226c456558619c1785a8fc10534eca6f13b786a6))
+
 ### [1.3.6](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.5...v1.3.6) (2022-09-16)
 
 
