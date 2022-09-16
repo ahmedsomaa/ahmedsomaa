@@ -2,7 +2,7 @@ name: Recent Activity Workflow
 
 on:
     schedule:
-        - cron: '0 * * * *' # Update every hour
+        - cron: '0 */4 * * *'
     workflow_dispatch:
 
 jobs:
