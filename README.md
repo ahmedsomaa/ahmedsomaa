@@ -94,7 +94,7 @@
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
   <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" />
   <img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextjs&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Remix" src="https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=white" />
 </p>
 
