@@ -195,7 +195,7 @@ Last Updated: Friday, September 16th, 2022, 7:15:49 PM
 </p>
 <p align="center" width="100%">
    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ahmedsomaa&style=flat-square" />
-   <img alt="Latest Blog Post Workflow Status" src="https://img.shields.io/github/workflow/status/ahmedsomaa/ahmedsomaa/Latest%20blog%20post%20workflow/main?label=Blog%20Post%20Workflow&style=flat-square" />
-   <img alt="Recent Activity Workflow Status" src="https://img.shields.io/github/workflow/status/ahmedsomaa/ahmedsomaa/Recent%20Activity%20Workflow/main?label=Recent%20Activity%20Workflow&style=flat-square" />
+   <img alt="Latest Blog Post Workflow Status" src="https://img.shields.io/github/actions/workflow/status/ahmedsomaa/ahmedsomaa/blog-post-workflow.yml?branch=main&label=Blog%20Post%20Workflow&style=flat-square" />
+   <img alt="Recent Activity Workflow Status" src="https://img.shields.io/github/actions/workflow/status/ahmedsomaa/ahmedsomaa/recent-activity-workflow.yml?branch=main&label=Recent%20Activity%20Workflow&style=flat-square" />
    <img alt="Latest Version" src="https://img.shields.io/github/v/tag/ahmedsomaa/ahmedsomaa?color=yellow&label=Version&style=flat-square" />
 </p>
