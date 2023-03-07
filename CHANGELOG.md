@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.9](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.8...v1.3.9) (2023-03-07)
+
+
+### Bug Fixes
+
+* update blog post & recent activity workflow badges url ([fa86418](https://github.com/ahmedsomaa/ahmedsomaa/commit/fa864182e15c61ca4f5fd243eeb52fd6d1f980c9))
+* update year goals ([1e353ad](https://github.com/ahmedsomaa/ahmedsomaa/commit/1e353ad678d534fdd570521480e95dd41c604c9e))
+
 ### [1.3.8](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.7...v1.3.8) (2022-09-16)
 
 
