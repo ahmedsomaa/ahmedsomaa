@@ -8,10 +8,8 @@
 <p>I'm Ahmed, Software engineer from Tanta, Egypt 🇪🇬, currently living in Cairo, Egypt.</p>
 
 - 🔭 I'm currently doing a masters of engineering in software engineering @ Arizona State University.
-- 🌱 I'm currenlty doing
-  [React Development Cross-Skilling](https://egfwd.com/specializtion/react-development/).
 - 👯 I’m looking to collaborate on open source projects.
-- 🥅 2022 Goals: Master JavaScript, TypeScript, Node & Unit Testing.
+- 🥅 2023 Goals: Master TypeScript, Advanced React Topics, PostgreSQL.
 - ⚡ Fun fact: I love to watch football and read about new technology.
 
 ### Tech I currently use
@@ -103,6 +101,7 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How Does The Internet Work? Part 3: Traceroute](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-3-traceroute-2b7l)
 - [How Does The Internet Work? Part 2: Breaking a Website](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-2-breaking-a-website-5e59)
 - [How Does The Internet Work? Part 1: Browsing a Website](https://dev.to/ahmedsomaa/how-does-the-internet-works-part-1-behind-the-scenes-4d6m)
@@ -113,6 +112,7 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/elzero-js-bootcamp](https://github.com/ahmedsomaa/elzero-js-bootcamp)
 2. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/elzero-js-bootcamp](https://github.com/ahmedsomaa/elzero-js-bootcamp)
 3. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/elzero-js-bootcamp](https://github.com/ahmedsomaa/elzero-js-bootcamp)
@@ -121,7 +121,9 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Tuesday, March 7th, 2023, 4:11:18 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
