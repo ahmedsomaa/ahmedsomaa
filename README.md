@@ -9,6 +9,7 @@
 
 - 🔭 I'm currently doing a masters of engineering in software engineering @ Arizona State University.
 - 👯 I’m looking to collaborate on open source projects.
+- 🌱 I’m currently learning TypeScript.
 - 🥅 2023 Goals: Master TypeScript, Advanced React Topics, PostgreSQL.
 - ⚡ Fun fact: I love to watch football and read about new technology.
 
@@ -26,7 +27,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Create React App" src="https://img.shields.io/badge/-Create React App-09D3AC?style=flat-square&logo=create react app&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/-React Router-CA4245?style=flat-square&logo=react router&logoColor=white" />
   <img alt="React Hook Form" src="https://img.shields.io/badge/-React Hook Form-EC5990?style=flat-square&logo=react hook form&logoColor=white" />
   <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
@@ -101,6 +102,7 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How Does The Internet Work? Part 3: Traceroute](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-3-traceroute-2b7l)
 - [How Does The Internet Work? Part 2: Breaking a Website](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-2-breaking-a-website-5e59)
 - [How Does The Internet Work? Part 1: Browsing a Website](https://dev.to/ahmedsomaa/how-does-the-internet-works-part-1-behind-the-scenes-4d6m)
@@ -111,6 +113,7 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 8 commit(s) to [ahmedsomaa/elzero-ts-bootcamp](https://github.com/ahmedsomaa/elzero-ts-bootcamp)
 2. ⬆️ Pushed 9 commit(s) to [ahmedsomaa/elzero-ts-bootcamp](https://github.com/ahmedsomaa/elzero-ts-bootcamp)
 3. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/elzero-ts-bootcamp](https://github.com/ahmedsomaa/elzero-ts-bootcamp)
@@ -119,7 +122,9 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Saturday, March 25th, 2023, 8:09:34 AM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -172,8 +177,8 @@ Last Updated: Saturday, March 25th, 2023, 8:09:34 AM
   <a href="https://www.hackerrank.com/ahmedsomaa" target="_target">
     <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="mailto:ahmedsomaa@aucegypt.edu" target="_target">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ahmedsomaa96@proton.me" target="_target">
+    <img alt="ProtonMail" src="https://img.shields.io/badge/-Proton Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/12738561" target="_target">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-F58025?style=for-the-badge&logo=stack overflow&logoColor=white" />
