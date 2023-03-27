@@ -7,7 +7,7 @@
 <p>Welcome to my page!</p>
 <p>I'm Ahmed, Software engineer from Tanta, Egypt 🇪🇬, currently living in Cairo, Egypt.</p>
 
-- 🔭 I'm currently doing a masters of engineering in software engineering @ Arizona State University.
+- 🔭 I'm currently working as a software engineer I @ New Smart Egytp and doing a masters of engineering in software engineering @ Arizona State University.
 - 👯 I’m looking to collaborate on open source projects.
 - 🌱 I’m currently learning TypeScript.
 - 🥅 2023 Goals: Master TypeScript, Advanced React Topics, PostgreSQL.
@@ -36,7 +36,7 @@
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
+  <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
   <img alt="NuGet" src="https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoColor=white" /> 
   <img 
        alt="Microsoft SQL Server" 
@@ -102,6 +102,7 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How Does The Internet Work? Part 3: Traceroute](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-3-traceroute-2b7l)
 - [How Does The Internet Work? Part 2: Breaking a Website](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-2-breaking-a-website-5e59)
 - [How Does The Internet Work? Part 1: Browsing a Website](https://dev.to/ahmedsomaa/how-does-the-internet-works-part-1-behind-the-scenes-4d6m)
@@ -112,6 +113,7 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/elzero-ts-bootcamp](https://github.com/ahmedsomaa/elzero-ts-bootcamp)
 2. ⬆️ Pushed 2 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
 3. ⬆️ Pushed 5 commit(s) to [ahmedsomaa/elzero-ts-bootcamp](https://github.com/ahmedsomaa/elzero-ts-bootcamp)
@@ -120,7 +122,9 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Monday, March 27th, 2023, 8:11:22 AM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
