@@ -7,7 +7,7 @@
 <p>Welcome to my page!</p>
 <p>I'm Ahmed, Software engineer from Tanta, Egypt 🇪🇬, currently living in Cairo, Egypt.</p>
 
-- 🔭 I'm currently working as a software engineer I @ New Smart Egytp and doing a masters of engineering in software engineering @ Arizona State University.
+- 🔭 I'm currently doing a masters of engineering in software engineering @ Arizona State University.
 - 👯 I’m looking to collaborate on open source projects.
 - 🌱 I’m currently learning TypeScript.
 - 🥅 2023 Goals: Master TypeScript, Advanced React Topics, PostgreSQL.
