@@ -175,7 +175,11 @@ Last Updated: Monday, April 3rd, 2023, 4:09:29 PM
   Blog Posts & Recent Activities in this <em>README</em> are updated every 4 hours!
 </p>
 <p align="center" width="100%">
-Last Updated: Monday, April 3rd, 2023, 7:15:49 PM
+<!--RECENT_ACTIVITY:last_update-->
+
+Last Updated: Monday, April 3rd, 2023, 4:09:29 PM
+
+<!--RECENT_ACTIVITY:last_update_end-->
 </p>
 <p align="center" width="100%">
    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ahmedsomaa&style=flat-square" />
