@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.10](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.9...v1.3.10) (2023-04-03)
+
+
+### Bug Fixes
+
+* change laste updated date ([22f5b07](https://github.com/ahmedsomaa/ahmedsomaa/commit/22f5b07196ebd8f3b4f2c291e12fd6e353109c79))
+* remove csharp, dotnet & nuget ([cc267d3](https://github.com/ahmedsomaa/ahmedsomaa/commit/cc267d304ae27344a00e87b086297bc4f61c44ca))
+* remove current position ([79a1675](https://github.com/ahmedsomaa/ahmedsomaa/commit/79a1675c25f20bdc874b9a792ddfaf3d01ec6270))
+* remove manjaro, storybook, remix, bun & deno from bucket list ([9a81118](https://github.com/ahmedsomaa/ahmedsomaa/commit/9a811188c6e5e0037f915a9de45d4e1112c55c80))
+* remove react eco system libs from current tech ([0951805](https://github.com/ahmedsomaa/ahmedsomaa/commit/09518056eba90408afae89f8cfb9111d5e73b12f))
+* update currently and replace yarn with pnpm ([5e701b4](https://github.com/ahmedsomaa/ahmedsomaa/commit/5e701b4014c7f7f50c5c6b071c4427b716598340))
+* update recent activity date ([ae98471](https://github.com/ahmedsomaa/ahmedsomaa/commit/ae984711062fd2ebfd19ae59d94a2418eecc8f52))
+
 ### [1.3.9](https://github.com/ahmedsomaa/ahmedsomaa/compare/v1.3.8...v1.3.9) (2023-03-07)
 
 
