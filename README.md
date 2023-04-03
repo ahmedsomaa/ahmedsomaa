@@ -24,17 +24,6 @@
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="React Router" src="https://img.shields.io/badge/-React Router-CA4245?style=flat-square&logo=react router&logoColor=white" />
-  <img alt="React Hook Form" src="https://img.shields.io/badge/-React Hook Form-EC5990?style=flat-square&logo=react hook form&logoColor=white" />
-  <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-  <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra UI-319795?style=flat-square&logo=chakra ui&logoColor=white" />
-  <img alt="Semantic UI React" src="https://img.shields.io/badge/-Semantic UI React-35BDB2?style=flat-square&logo=semantic ui react&logoColor=white" />
-  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
-  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
   <img 
        alt="Microsoft SQL Server" 
        src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat-square&logo=microsoft sql server&logoColor=white" />
@@ -52,7 +41,7 @@
   <img alt="AnyDesk" src="https://img.shields.io/badge/-AnyDesk-EF443B?style=flat-square&logo=anydesk&logoColor=white" />
 </p>
 
-### Tech I've used before (at least in more than two projects)
+### Tech I've used before
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> 
