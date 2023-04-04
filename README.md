@@ -30,7 +30,6 @@
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure DevOps-0078D7?style=flat-square&logo=azure devops&logoColor=white" /> 
   <img alt="Azure Pipelines" src="https://img.shields.io/badge/-Azure Pipelines-0078D7?style=flat-square&logo=azure pipelines&logoColor=white" /> 
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=flat-square&logo=visual studio&logoColor=white" />
   <img alt="DataGrip" src="https://img.shields.io/badge/-DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" /> 
