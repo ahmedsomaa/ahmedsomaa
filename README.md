@@ -83,6 +83,7 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How Does The Internet Work? Part 3: Traceroute](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-3-traceroute-2b7l)
 - [How Does The Internet Work? Part 2: Breaking a Website](https://dev.to/ahmedsomaa/how-does-the-internet-work-part-2-breaking-a-website-5e59)
 - [How Does The Internet Work? Part 1: Browsing a Website](https://dev.to/ahmedsomaa/how-does-the-internet-works-part-1-behind-the-scenes-4d6m)
@@ -93,6 +94,7 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⭐ Starred [antfu/vscode-settings](https://github.com/antfu/vscode-settings)
 2. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
 3. ⬆️ Pushed 2 commit(s) to [ahmedsomaa/ahmedsomaa](https://github.com/ahmedsomaa/ahmedsomaa)
@@ -101,7 +103,9 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Tuesday, April 4th, 2023, 4:09:50 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -170,12 +174,6 @@ Last Updated: Tuesday, April 4th, 2023, 4:09:50 PM
 <p align="center" width="100%">
   Blog Posts & Recent Activities in this <em>README</em> are updated every 4 hours!
 </p>
-
-<!--RECENT_ACTIVITY:last_update-->
-<p align="center" width="100%">
-Last Updated: Monday, April 3rd, 2023, 4:09:29 PM
-</p>
-<!--RECENT_ACTIVITY:last_update_end-->
 
 <p align="center" width="100%">
    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ahmedsomaa&style=flat-square" />
