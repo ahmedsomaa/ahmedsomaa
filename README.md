@@ -5,7 +5,7 @@
 ---
 
 <p>Welcome to my page!</p>
-<p>I'm Ahmed, Software engineer from Tanta, Egypt 🇪🇬, currently living in Cairo, Egypt.</p>
+<p>I'm Ahmed, Software engineer from Tanta, Egypt 🇪🇬.</p>
 
 - 🔭 I'm currently doing a masters of engineering in software engineering @ Arizona State University.
 - 👯 I’m looking to collaborate on open source projects.
