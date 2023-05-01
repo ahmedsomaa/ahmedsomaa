@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 🌱 I’m currently learning TypeScript.
 - 🥅 2023 Goals: Master TypeScript, Advanced React Topics, PostgreSQL.
-- ⚡ Fun fact: I love to watch football and read about new technology.
+- ⚡ Fun fact: I love to watch football, I support Liverpool and Al-Ahly SC, and read about new technology.
 
 ### Tech I currently use
 
