@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently doing a masters of engineering in software engineering @ Arizona State University.
 - 👯 I’m looking to collaborate on open source projects.
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning TypeScript & Firebase Services.
 - 🥅 2023 Goals: Master TypeScript, Advanced React Topics, PostgreSQL.
 - ⚡ Fun fact: I love to watch football, I support Liverpool and Al-Ahly SC, and read about new technology.
 
