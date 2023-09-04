@@ -93,11 +93,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [callstack/react-native-paper](https://github.com/callstack/react-native-paper)
-2. ⭐ Starred [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 4th, 2023, 12:35:26 AM
+Last Updated: Monday, September 4th, 2023, 4:09:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
