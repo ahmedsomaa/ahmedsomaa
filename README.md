@@ -9,9 +9,9 @@
 
 - 🔭 I'm currently doing a masters of engineering in software engineering @ Arizona State University.
 - 👯 I’m looking to collaborate on open source projects.
-- 🌱 I’m currently learning TypeScript & Firebase Services.
+- 🌱 I’m currently learning TypeScript, LangChain && LLMs.
 - 🥅 2023 Goals: Master TypeScript, Advanced React Topics, PostgreSQL.
-- ⚡ Fun fact: I love to watch football, I support Liverpool and Al-Ahly SC, and read about new technology.
+- ⚡ Fun fact: I love to watch football, I support Liverpool and Al-Ahly SC, post FIFA career mode videos [here](youtube.com/@the-final-lineup/) and read about new technology.
 
 ### Tech I currently use
 
