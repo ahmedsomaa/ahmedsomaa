@@ -7,11 +7,11 @@
 <p>Welcome to my page!</p>
 <p>I'm Ahmed, Software engineer from Tanta, Egypt 🇪🇬.</p>
 
-- 🔭 I'm currently doing a masters of engineering in software engineering @ Arizona State University.
-- 👯 I’m looking to collaborate on open source projects.
-- 🌱 I’m currently learning TypeScript, LangChain && LLMs.
-- 🥅 2023 Goals: Master TypeScript, Advanced React Topics, PostgreSQL.
-- ⚡ Fun fact: I love to watch football, I support Liverpool and Al-Ahly SC, post FIFA career mode videos [here](youtube.com/@the-final-lineup/) and read about new technology.
+- 🎓 I've just completed a Masters of Engineering in Software Engineering @ Arizona State University.
+- 👯‍♂️ I'm actively seeking collaboration on open source projects, with a focused interest in front-end React development.
+- 🌱 I'm currently dedicated to mastering advanced React concepts, exploring React rendering patterns, diving into Next.js, deepening TypeScript proficiency, and immersing in the React ecosystem.
+- 🥅 2024 Goals: Excel in advanced React topics, become proficient in Next.js, refine TypeScript skills, implement React rendering patterns from patterns.dev book, and apply principles from the Refactoring UI books.
+- ⚡ Fun fact: Devoted football fan supporting Liverpool and Al-Ahly SC. Also, sharing FIFA career mode videos [here](youtube.com/@the-final-lineup/) and staying updated on new technologies.
 
 ### Tech I currently use
 
@@ -55,26 +55,12 @@
   <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
 </p>
 
-### Operating systems I've worked on
-
-<p>
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> 
-  <img alt="Windows 11" src="https://img.shields.io/badge/-Windows 11-0078D4?style=flat-square&logo=windows 11&logoColor=white" />
-  <img alt="deepin" src="https://img.shields.io/badge/-deepin-007CFF?style=flat-square&logo=deepin&logoColor=white" />
-  <img alt="Zorin" src="https://img.shields.io/badge/-Zorin-0CC1F3?style=flat-square&logo=zorin&logoColor=white" />
-  <img alt="elementary" src="https://img.shields.io/badge/-elementary-64BAFF?style=flat-square&logo=elementary&logoColor=white" />
-  <img alt="Linux Mint" src="https://img.shields.io/badge/-Linux Mint-87CF3E?style=flat-square&logo=linux mint&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-</p>
-
 ### Tech on my bucket list
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> 
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwind css&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="GNU Bash" src="https://img.shields.io/badge/-GNU Bash-4EAA25?style=flat-square&logo=gnu bash&logoColor=white" />
-  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
 </p>
 
 ---
