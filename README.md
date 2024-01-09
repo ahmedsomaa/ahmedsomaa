@@ -11,7 +11,7 @@
 - 👯‍♂️ I'm actively seeking collaboration on open source projects, with a focused interest in front-end React development.
 - 🌱 I'm currently dedicated to mastering advanced React concepts, exploring React rendering patterns, diving into Next.js, deepening TypeScript proficiency, and immersing in the React ecosystem.
 - 🥅 2024 Goals: Excel in advanced React topics, become proficient in Next.js, refine TypeScript skills, implement React rendering patterns from patterns.dev book, and apply principles from the Refactoring UI books.
-- ⚡ Fun fact: Devoted football fan supporting Liverpool and Al-Ahly SC. Also, sharing FIFA career mode videos [here](youtube.com/@the-final-lineup/) and staying updated on new technologies.
+- ⚡ Fun fact: Devoted football fan supporting Liverpool and Al-Ahly SC. Also, sharing FIFA career mode videos [here](https://www.youtube.com/@the-final-lineup) and staying updated on new technologies.
 
 ### Tech I currently use
 
