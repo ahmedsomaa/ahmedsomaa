@@ -78,15 +78,15 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/nextjs-course](https://github.com/ahmedsomaa/nextjs-course)
-2. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/nextjs-course](https://github.com/ahmedsomaa/nextjs-course)
-3. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/nextjs-course](https://github.com/ahmedsomaa/nextjs-course)
-4. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/nextjs-course](https://github.com/ahmedsomaa/nextjs-course)
-5. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/nextjs-course](https://github.com/ahmedsomaa/nextjs-course)
+1. 💬 Commented on [#2552](https://github.com/shadcn-ui/ui/issues/2552#issuecomment-1908980415) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 💬 Commented on [#2425](https://github.com/shadcn-ui/ui/issues/2425#issuecomment-1908976425) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+3. 💬 Commented on [#318](https://github.com/shadcn-ui/ui/pull/318#issuecomment-1908970513) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. 💬 Commented on [#2560](https://github.com/shadcn-ui/ui/issues/2560#issuecomment-1908965614) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+5. ✔️ Closed issue [#2560](https://github.com/shadcn-ui/ui/issues/2560) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 24th, 2024, 8:08:54 PM
+Last Updated: Thursday, January 25th, 2024, 12:39:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
