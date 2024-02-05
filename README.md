@@ -78,15 +78,15 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MinaSameh1/tinyparser](https://github.com/MinaSameh1/tinyparser)
-2. ⭐ Starred [timlrx/timlrx.com](https://github.com/timlrx/timlrx.com)
-3. ❗️ Opened issue [#44](https://github.com/timlrx/timlrx.com/issues/44) in [timlrx/timlrx.com](https://github.com/timlrx/timlrx.com)
-4. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/nextjs-course](https://github.com/ahmedsomaa/nextjs-course)
-5. ⭐ Starred [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core)
+1. ⭐ Starred [greatfrontend/awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design)
+2. ⭐ Starred [MinaSameh1/tinyparser](https://github.com/MinaSameh1/tinyparser)
+3. ⭐ Starred [timlrx/timlrx.com](https://github.com/timlrx/timlrx.com)
+4. ❗️ Opened issue [#44](https://github.com/timlrx/timlrx.com/issues/44) in [timlrx/timlrx.com](https://github.com/timlrx/timlrx.com)
+5. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/nextjs-course](https://github.com/ahmedsomaa/nextjs-course)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 4th, 2024, 8:07:43 PM
+Last Updated: Monday, February 5th, 2024, 12:37:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
