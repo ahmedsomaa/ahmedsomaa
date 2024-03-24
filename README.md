@@ -79,15 +79,15 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/my-portfolio](https://github.com/ahmedsomaa/my-portfolio)
+1. ⬆️ Pushed 3 commit(s) to [ahmedsomaa/my-portfolio](https://github.com/ahmedsomaa/my-portfolio)
 2. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/my-portfolio](https://github.com/ahmedsomaa/my-portfolio)
 3. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/my-portfolio](https://github.com/ahmedsomaa/my-portfolio)
 4. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/my-portfolio](https://github.com/ahmedsomaa/my-portfolio)
-5. ⬆️ Pushed 2 commit(s) to [ahmedsomaa/my-portfolio](https://github.com/ahmedsomaa/my-portfolio)
+5. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/my-portfolio](https://github.com/ahmedsomaa/my-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 23rd, 2024, 8:08:33 PM
+Last Updated: Sunday, March 24th, 2024, 12:40:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
