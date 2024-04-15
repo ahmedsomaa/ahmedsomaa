@@ -67,12 +67,8 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Streamlining the Hiring Process with OpenAI and LangChain Part 1](https://dev.to/som3aware/streamlining-the-hiring-process-with-openai-and-langchain-part-1-32o8)
-- [How Does The Internet Work? Part 3: Traceroute](https://dev.to/som3aware/how-does-the-internet-work-part-3-traceroute-2b7l)
-- [How Does The Internet Work? Part 2: Breaking a Website](https://dev.to/som3aware/how-does-the-internet-work-part-2-breaking-a-website-5e59)
-- [How Does The Internet Work? Part 1: Browsing a Website](https://dev.to/som3aware/how-does-the-internet-works-part-1-behind-the-scenes-4d6m)
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 ---
 
