@@ -68,11 +68,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
+- [Introduction to HTML Lists: Organize Your Content Like a Pro! 🌟](https://som3aware.hashnode.dev/introduction-to-html-lists-organize-your-content-like-a-pro)
 - [Streamlining the Hiring Process with OpenAI and LangChain Part 2](https://som3aware.hashnode.dev/streamlining-the-hiring-process-with-openai-and-langchain-part-2)
 - [Streamlining the Hiring Process with OpenAI and LangChain Part 1](https://som3aware.hashnode.dev/streamlining-the-hiring-process-with-openai-and-langchain-part-1)
 - [How Does the Internet Work? Part 3 - Traceroute](https://som3aware.hashnode.dev/how-does-the-internet-work-part-3-traceroute)
 - [How Does the Internet Work? Part 2 - Breaking a Website](https://som3aware.hashnode.dev/how-does-the-internet-work-part-2-breaking-a-website)
-- [How Does the Internet Work? Part 1 - Browsing a Website](https://som3aware.hashnode.dev/how-does-the-internet-work-part-1-browsing-a-website)
 
 <!-- HASHNODE_BLOG:END -->
 
