@@ -68,11 +68,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
-- [Advanced Techniques for Ordered Lists Using CSS Counters](https://som3aware.hashnode.dev/advanced-techniques-for-ordered-lists-using-css-counters)
-- [Customizing List Styles with CSS: Dress Your Lists to Impress!](https://som3aware.hashnode.dev/customizing-list-styles-with-css-dress-your-lists-to-impress)
-- [Introduction to HTML Lists: Organize Your Content Like a Pro!](https://som3aware.hashnode.dev/introduction-to-html-lists-organize-your-content-like-a-pro)
+- [Customizing List Styles with CSS: Dress Your Lists to Impress! 💅](https://som3aware.hashnode.dev/customizing-list-styles-with-css-dress-your-lists-to-impress)
+- [Introduction to HTML Lists: Organize Your Content Like a Pro! 🌟](https://som3aware.hashnode.dev/introduction-to-html-lists-organize-your-content-like-a-pro)
 - [Streamlining the Hiring Process with OpenAI and LangChain Part 2](https://som3aware.hashnode.dev/streamlining-the-hiring-process-with-openai-and-langchain-part-2)
 - [Streamlining the Hiring Process with OpenAI and LangChain Part 1](https://som3aware.hashnode.dev/streamlining-the-hiring-process-with-openai-and-langchain-part-1)
+- [How Does the Internet Work? Part 3 - Traceroute](https://som3aware.hashnode.dev/how-does-the-internet-work-part-3-traceroute)
 
 <!-- HASHNODE_BLOG:END -->
 
