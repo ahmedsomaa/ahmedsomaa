@@ -81,15 +81,15 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ibelick/ui-snippets](https://github.com/ibelick/ui-snippets)
-2. ⭐ Starred [ibelick/background-snippets](https://github.com/ibelick/background-snippets)
-3. ⭐ Starred [ibelick/buttons](https://github.com/ibelick/buttons)
-4. ⭐ Starred [Codehagen/Dingify](https://github.com/Codehagen/Dingify)
-5. ⭐ Starred [damianricobelli/shadcn-stepper](https://github.com/damianricobelli/shadcn-stepper)
+1. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)
+2. ⭐ Starred [ibelick/ui-snippets](https://github.com/ibelick/ui-snippets)
+3. ⭐ Starred [ibelick/background-snippets](https://github.com/ibelick/background-snippets)
+4. ⭐ Starred [ibelick/buttons](https://github.com/ibelick/buttons)
+5. ⭐ Starred [Codehagen/Dingify](https://github.com/Codehagen/Dingify)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 10th, 2024, 8:12:35 AM
+Last Updated: Monday, June 10th, 2024, 12:16:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
