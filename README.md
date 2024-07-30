@@ -68,11 +68,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
+- [The Rise and Fall of Tech Jobs: Insights from the Last 10 Years](https://som3aware.hashnode.dev/the-rise-and-fall-of-tech-jobs-insights-from-the-last-10-years)
 - [Lists with Custom Markers](https://som3aware.hashnode.dev/lists-with-custom-markers)
 - [Advanced Techniques for Ordered Lists Using CSS Counters](https://som3aware.hashnode.dev/advanced-techniques-for-ordered-lists-using-css-counters)
 - [Customizing List Styles with CSS: Dress Your Lists to Impress!](https://som3aware.hashnode.dev/customizing-list-styles-with-css-dress-your-lists-to-impress)
 - [Introduction to HTML Lists: Organize Your Content Like a Pro!](https://som3aware.hashnode.dev/introduction-to-html-lists-organize-your-content-like-a-pro)
-- [Streamlining the Hiring Process with OpenAI and LangChain Part 2](https://som3aware.hashnode.dev/streamlining-the-hiring-process-with-openai-and-langchain-part-2)
 
 <!-- HASHNODE_BLOG:END -->
 
