@@ -81,15 +81,15 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. ⭐ Starred [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
-3. ⭐ Starred [DarkInventor/easy-ui](https://github.com/DarkInventor/easy-ui)
-4. ⭐ Starred [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack)
-5. ⭐ Starred [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui)
+1. ⭐ Starred [dubinc/dub](https://github.com/dubinc/dub)
+2. ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. ⭐ Starred [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
+4. ⭐ Starred [DarkInventor/easy-ui](https://github.com/DarkInventor/easy-ui)
+5. ⭐ Starred [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 21st, 2024, 12:19:55 PM
+Last Updated: Monday, October 21st, 2024, 4:12:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
