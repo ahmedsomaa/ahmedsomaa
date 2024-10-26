@@ -81,15 +81,15 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [biomejs/biome](https://github.com/biomejs/biome)
-2. ⭐ Starred [justdlabs/justd](https://github.com/justdlabs/justd)
-3. ⭐ Starred [dubinc/dub](https://github.com/dubinc/dub)
-4. ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. ⭐ Starred [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
+1. ⭐ Starred [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)
+2. ⭐ Starred [biomejs/biome](https://github.com/biomejs/biome)
+3. ⭐ Starred [justdlabs/justd](https://github.com/justdlabs/justd)
+4. ⭐ Starred [dubinc/dub](https://github.com/dubinc/dub)
+5. ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 26th, 2024, 8:12:21 AM
+Last Updated: Saturday, October 26th, 2024, 12:17:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
