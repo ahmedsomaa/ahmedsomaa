@@ -81,15 +81,15 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)
-2. ⭐ Starred [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)
-3. ⭐ Starred [biomejs/biome](https://github.com/biomejs/biome)
-4. ⭐ Starred [justdlabs/justd](https://github.com/justdlabs/justd)
-5. ⭐ Starred [dubinc/dub](https://github.com/dubinc/dub)
+1. ⭐ Starred [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)
+2. ⭐ Starred [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)
+3. ⭐ Starred [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)
+4. ⭐ Starred [biomejs/biome](https://github.com/biomejs/biome)
+5. ⭐ Starred [justdlabs/justd](https://github.com/justdlabs/justd)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 2nd, 2024, 8:12:50 AM
+Last Updated: Saturday, November 2nd, 2024, 12:17:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
