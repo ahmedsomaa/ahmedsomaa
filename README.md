@@ -81,15 +81,15 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [QuiiBz/next-international](https://github.com/QuiiBz/next-international)
-2. ⭐ Starred [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons)
-3. ⭐ Starred [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)
-4. ⭐ Starred [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)
-5. ⭐ Starred [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)
+1. ⭐ Starred [pheralb/pheralb.dev](https://github.com/pheralb/pheralb.dev)
+2. ⭐ Starred [QuiiBz/next-international](https://github.com/QuiiBz/next-international)
+3. ⭐ Starred [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons)
+4. ⭐ Starred [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)
+5. ⭐ Starred [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 12th, 2024, 8:10:54 PM
+Last Updated: Wednesday, November 13th, 2024, 12:49:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
