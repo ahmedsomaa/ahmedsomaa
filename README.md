@@ -81,15 +81,15 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)
-2. ⭐ Starred [YacoubAl-hardari/Schedule-of-Worship-in-Ramadan](https://github.com/YacoubAl-hardari/Schedule-of-Worship-in-Ramadan)
-3. ⭐ Starred [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers)
-4. ⭐ Starred [mrmykey/awesome-http-clients](https://github.com/mrmykey/awesome-http-clients)
-5. ⭐ Starred [easybase/awesome-http](https://github.com/easybase/awesome-http)
+1. ⭐ Starred [mohamedelmougy/Nextjs-Contentlayer-blog](https://github.com/mohamedelmougy/Nextjs-Contentlayer-blog)
+2. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)
+3. ⭐ Starred [YacoubAl-hardari/Schedule-of-Worship-in-Ramadan](https://github.com/YacoubAl-hardari/Schedule-of-Worship-in-Ramadan)
+4. ⭐ Starred [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers)
+5. ⭐ Starred [mrmykey/awesome-http-clients](https://github.com/mrmykey/awesome-http-clients)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 4th, 2025, 8:11:40 PM
+Last Updated: Wednesday, March 5th, 2025, 12:52:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
