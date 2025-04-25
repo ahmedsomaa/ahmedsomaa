@@ -81,15 +81,15 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [urql-graphql/urql](https://github.com/urql-graphql/urql)
-2. ⭐ Starred [vercel/swr](https://github.com/vercel/swr)
-3. ⭐ Starred [alan2207/react-query-auth](https://github.com/alan2207/react-query-auth)
-4. ⭐ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)
-5. ⭐ Starred [pmndrs/jotai](https://github.com/pmndrs/jotai)
+1. ⭐ Starred [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+2. ⭐ Starred [urql-graphql/urql](https://github.com/urql-graphql/urql)
+3. ⭐ Starred [vercel/swr](https://github.com/vercel/swr)
+4. ⭐ Starred [alan2207/react-query-auth](https://github.com/alan2207/react-query-auth)
+5. ⭐ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 24th, 2025, 8:13:01 PM
+Last Updated: Friday, April 25th, 2025, 12:56:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
