@@ -81,11 +81,12 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gcanti/fp-ts](https://github.com/gcanti/fp-ts)
+1. ⭐ Starred [tejachundru/react-vite-starter](https://github.com/tejachundru/react-vite-starter)
+2. ⭐ Starred [gcanti/fp-ts](https://github.com/gcanti/fp-ts)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 2nd, 2025, 12:23:36 PM
+Last Updated: Monday, June 2nd, 2025, 4:15:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
