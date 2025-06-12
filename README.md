@@ -85,11 +85,10 @@
 2. ⬆️ Pushed 1 commit(s) to [ahmedsomaa/sharpixi](https://github.com/ahmedsomaa/sharpixi)
 3. ⭐ Starred [aeonzz/eo-n](https://github.com/aeonzz/eo-n)
 4. ⭐ Starred [tejachundru/react-vite-starter](https://github.com/tejachundru/react-vite-starter)
-5. ⭐ Starred [gcanti/fp-ts](https://github.com/gcanti/fp-ts)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 12th, 2025, 4:19:20 AM
+Last Updated: Thursday, June 12th, 2025, 8:16:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
