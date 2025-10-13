@@ -81,15 +81,15 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cschroeter/park-ui](https://github.com/cschroeter/park-ui)
-2. ⭐ Starred [primefaces/primereact](https://github.com/primefaces/primereact)
-3. ⭐ Starred [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
-4. ⭐ Starred [palantir/blueprint](https://github.com/palantir/blueprint)
-5. ⭐ Starred [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)
+1. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)
+2. ⭐ Starred [cschroeter/park-ui](https://github.com/cschroeter/park-ui)
+3. ⭐ Starred [primefaces/primereact](https://github.com/primefaces/primereact)
+4. ⭐ Starred [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
+5. ⭐ Starred [palantir/blueprint](https://github.com/palantir/blueprint)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 12th, 2025, 8:11:26 PM
+Last Updated: Monday, October 13th, 2025, 12:58:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
