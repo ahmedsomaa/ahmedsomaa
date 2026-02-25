@@ -83,11 +83,10 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [sabuhiteymurov/expo-base](https://github.com/sabuhiteymurov/expo-base)
 2. ⭐ Starred [agile8118/cpeak](https://github.com/agile8118/cpeak)
-3. ⭐ Starred [resend/react-email](https://github.com/resend/react-email)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 25th, 2026, 4:59:14 PM
+Last Updated: Wednesday, February 25th, 2026, 8:26:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
