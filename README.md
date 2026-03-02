@@ -81,12 +81,14 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sabuhiteymurov/expo-base](https://github.com/sabuhiteymurov/expo-base)
-2. ⭐ Starred [agile8118/cpeak](https://github.com/agile8118/cpeak)
+1. ⭐ Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+2. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)
+3. ⭐ Starred [sabuhiteymurov/expo-base](https://github.com/sabuhiteymurov/expo-base)
+4. ⭐ Starred [agile8118/cpeak](https://github.com/agile8118/cpeak)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 2nd, 2026, 4:33:39 PM
+Last Updated: Monday, March 2nd, 2026, 8:25:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
