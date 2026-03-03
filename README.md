@@ -81,14 +81,15 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-2. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)
-3. ⭐ Starred [sabuhiteymurov/expo-base](https://github.com/sabuhiteymurov/expo-base)
-4. ⭐ Starred [agile8118/cpeak](https://github.com/agile8118/cpeak)
+1. ⭐ Starred [ErickXavier/no-js](https://github.com/ErickXavier/no-js)
+2. ⭐ Starred [languine-ai/languine](https://github.com/languine-ai/languine)
+3. ⭐ Starred [WINOFFRG/limeplay](https://github.com/WINOFFRG/limeplay)
+4. ⭐ Starred [twoslashes/twoslash](https://github.com/twoslashes/twoslash)
+5. ⭐ Starred [47ng/nuqs](https://github.com/47ng/nuqs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 2nd, 2026, 8:25:26 PM
+Last Updated: Tuesday, March 3rd, 2026, 1:18:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
