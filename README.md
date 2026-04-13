@@ -81,12 +81,13 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)
-2. ⭐ Starred [pascalorg/editor](https://github.com/pascalorg/editor)
+1. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+2. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)
+3. ⭐ Starred [pascalorg/editor](https://github.com/pascalorg/editor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 13th, 2026, 1:02:52 PM
+Last Updated: Monday, April 13th, 2026, 4:54:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
