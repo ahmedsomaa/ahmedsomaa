@@ -82,13 +82,13 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
-2. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+2. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 3. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)
 4. ⭐ Starred [pascalorg/editor](https://github.com/pascalorg/editor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 18th, 2026, 8:38:26 AM
+Last Updated: Saturday, April 18th, 2026, 12:40:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
