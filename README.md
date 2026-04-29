@@ -81,13 +81,15 @@
 ### ✨ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
-2. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
-3. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)
+1. ⭐ Starred [cursor/cookbook](https://github.com/cursor/cookbook)
+2. ⭐ Starred [0xGF/boneyard](https://github.com/0xGF/boneyard)
+3. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+4. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+5. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 29th, 2026, 1:23:53 PM
+Last Updated: Wednesday, April 29th, 2026, 5:17:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
