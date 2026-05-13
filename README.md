@@ -85,11 +85,11 @@
 2. ⭐ Starred [cursor/cookbook](https://github.com/cursor/cookbook)
 3. ⭐ Starred [0xGF/boneyard](https://github.com/0xGF/boneyard)
 4. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
-5. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+5. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 13th, 2026, 6:41:40 AM
+Last Updated: Wednesday, May 13th, 2026, 10:13:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
