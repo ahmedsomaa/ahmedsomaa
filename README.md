@@ -16,4 +16,4 @@ React • Next.js • TypeScript • Node.js • PostgreSQL • MongoDB
 
 ## Links
 
-Portfolio → https://som3aware.netlify.app
+Portfolio → https://som3aware.pages.dev
