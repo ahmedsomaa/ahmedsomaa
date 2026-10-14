@@ -14,8 +14,8 @@ Passionate full stack engineer with a love for turning complex ideas into intuit
 
 ---
 
-- 🔭 Currently working as **Growth Engineer** at **[Eignspaces](https://www.eignspaces.com/)**
-- 🌱 Learning: **NestJS and building apps with AI**
+- 🔭 Currently working as **Senior Fullstack Engineer** @ **[Cypienta](https://cypienta.com)**
+- 🌱 Learning: **NestJS, Spec-Driven Development, AI Agent Skills**
 - 💬 Ask me about: **Web development, APIs, and developer tools**
 - 📍 Based in: **Tanta, Egypt**
 - 📫 Reach me: [abokahfa@gmail.com](mailto:abokahfa@gmail.com)
